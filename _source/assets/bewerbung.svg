@@ -1,0 +1,8 @@
+<svg id="bewerbung" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 371 487.5">
+  <title>bewerbung</title>
+  <line id="bewerbung-line-1" x1="74.9" y1="99" x2="294.9" y2="99" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="20"/>
+  <line id="bewerbung-line-2" x1="74.9" y1="188.85" x2="294.9" y2="188.85" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="20"/>
+  <line id="bewerbung-line-3" x1="74.9" y1="277.45" x2="294.9" y2="277.45" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="20"/>
+  <polygon id="bewerbung-edge" points="10 477.5 10 10 361 10 361 367 250.5 477.5 10 477.5" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="20"/>
+  <polyline id="bewerbung-border" points="250.5 477.5 250.5 368 361 368" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="20"/>
+</svg>
