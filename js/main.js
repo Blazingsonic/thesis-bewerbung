@@ -197,7 +197,7 @@
 			.add(getPrinterTl(), 'scene-printer')
 			.add(getOutroTl(), 'scene-outro');
 
-		// mainTl.seek('scene-printer+=4');
+		//mainTl.seek('scene-letter');
 
 	}
 	init();
